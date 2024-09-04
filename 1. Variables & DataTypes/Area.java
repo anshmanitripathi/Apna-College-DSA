@@ -9,6 +9,6 @@ public class Area {
 
         int $ = 24;
         System.out.println($);
-
+        sc.close();
     }
 }
