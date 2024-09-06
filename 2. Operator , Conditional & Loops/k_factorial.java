@@ -11,5 +11,6 @@ public class k_factorial {
 
         System.out.println("Factorial = "+ fact);
 
+        sc.close();
     }
 }

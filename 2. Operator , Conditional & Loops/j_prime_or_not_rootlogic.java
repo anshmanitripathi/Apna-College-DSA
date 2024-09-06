@@ -17,6 +17,8 @@ public class j_prime_or_not_rootlogic {
         }else{
             System.out.println("Not a 3Prime Number.");
         }
+
+        sc.close();
         
     }
 }

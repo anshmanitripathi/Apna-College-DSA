@@ -20,7 +20,10 @@ public class javabasics{
         boolean ans = sc.nextBoolean();
         System.out.println("Enter int : ");
         int an = sc.nextInt();
-       
+        
+        System.out.println(ans);
+        System.out.println(ab);
+        System.out.println(an);
 
 
         sc.close();
