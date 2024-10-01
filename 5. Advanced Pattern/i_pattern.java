@@ -1,3 +1,17 @@
+/**
+ *                *
+ *              * * *
+ *            * * * * *
+ *          * * * * * * * 
+ *          * * * * * * *
+ *            * * * * * 
+ *              * * * 
+ *                * 
+ */
+
+
+
+
 public class i_pattern {
     public static void pattern(int n){
         for(int i=1; i<=n; i++){
