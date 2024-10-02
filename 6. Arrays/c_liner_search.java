@@ -20,5 +20,6 @@ public class c_liner_search {
         }else{
             System.out.println(arr[result] + " is found at index " + result);
         }
+        sc.close();
     }
 }

@@ -3,7 +3,7 @@
 // D E F
 // G H I J
 
-public class d_pattern {
+public class d__pattern {
 
     public static void main(String[] args) {
         char ch = 65;
