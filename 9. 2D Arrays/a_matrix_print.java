@@ -18,5 +18,7 @@ public class a_matrix_print{
             }
             System.out.println();
         }
+
+        sc.close();
     }
 }

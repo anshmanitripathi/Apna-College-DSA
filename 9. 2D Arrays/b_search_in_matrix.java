@@ -37,5 +37,7 @@ public class b_search_in_matrix {
         System.out.println("Enter the element to be searched : ");
         int key = sc.nextInt();
         search_in_matrix(matrix, 5);
+
+        sc.close();
     }
 }
