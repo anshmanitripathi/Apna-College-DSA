@@ -1,4 +1,3 @@
-import java.util.*;
 public class b_shortestpath {
     public static float shortestpath(String str){
         int x =0,  y = 0;
