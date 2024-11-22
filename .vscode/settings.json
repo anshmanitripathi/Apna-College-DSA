@@ -8,11 +8,12 @@
         "4. Function & Methods",
         "3. Pattern Printing",
         "2. Operator , Conditional & Loops",
+        "13. Recursion",
         "12. OOPS",
         "11. Bit Manipulation",
         "10. Strings",
         "1. Variables & DataTypes",
-        "13. Recursion"
+        "14. Divide and Conquer"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
