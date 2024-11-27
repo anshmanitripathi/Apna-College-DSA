@@ -8,6 +8,7 @@
         "4. Function & Methods",
         "3. Pattern Printing",
         "2. Operator , Conditional & Loops",
+        "16. Time and Space Complexity",
         "15. Backtracking",
         "14. Divide and Conquer",
         "13. Recursion",
@@ -15,7 +16,7 @@
         "11. Bit Manipulation",
         "10. Strings",
         "1. Variables & DataTypes",
-        "16. Time and Space Complexity"
+        "17. ArrayList"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
