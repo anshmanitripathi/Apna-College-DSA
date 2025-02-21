@@ -8,6 +8,7 @@
         "4. Function & Methods",
         "3. Pattern Printing",
         "2. Operator , Conditional & Loops",
+        "18. Linked Lists",
         "17. ArrayList",
         "16. Time and Space Complexity",
         "15. Backtracking",
@@ -17,7 +18,7 @@
         "11. Bit Manipulation",
         "10. Strings",
         "1. Variables & DataTypes",
-        "18. Linked Lists"
+        "22. Binary Tress"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
