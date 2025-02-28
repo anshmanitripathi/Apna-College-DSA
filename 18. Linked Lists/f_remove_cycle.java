@@ -187,6 +187,8 @@ public class f_remove_cycle {
                 return;
             }
 
+
+            //find meeting point
             slow = head;
             Node prev = null;
             while(slow != fast){
@@ -203,12 +205,12 @@ public class f_remove_cycle {
 
     public static void main(String[] args) {
         LinkedList ll = new LinkedList();
-        ll.addFirst(1);
-        LinkedList.Node temp = ll.head;
-        ll.head.next = new LinkedList.Node(2);
-        ll.head.next.next = new LinkedList.Node(3);
-        ll.head.next.next.next = new LinkedList.Node(4);
-        ll.head.next.next.next.next = temp.next.next; // Creates a cycle
+        // ll.addFirst(1);
+        // LinkedList.Node temp = ll.head;
+        // ll.head.next = new LinkedList.Node(2);
+        // ll.head.next.next = new LinkedList.Node(3);
+        // ll.head.next.next.next = new LinkedList.Node(4);
+        // ll.head.next.next.next.next = temp.next.next; // Creates a cycle
 
         System.out.println("Cycle present: " + ll.isCycle());
         ll.removeCycle();
