@@ -9,6 +9,7 @@
         "3. Pattern Printing",
         "22. Binary Tress",
         "2. Operator , Conditional & Loops",
+        "19. Stack",
         "18. Linked Lists",
         "17. ArrayList",
         "16. Time and Space Complexity",
@@ -19,7 +20,7 @@
         "11. Bit Manipulation",
         "10. Strings",
         "1. Variables & DataTypes",
-        "19. Stack"
+        "20. Queues"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
