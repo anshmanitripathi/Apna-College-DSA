@@ -40,15 +40,23 @@ public class a_LinkedList {
 
             // if it is the first node
             if(head == null){
-                head = tail = newNode;
+                head = newNode;
                 return;
             }
 
-            //Step 2 : tail next = newNode
-            tail.next = newNode;
+            Node temp = head;
 
-            //Step 3 : tail = newNode
-            tail = newNode;
+            while(temp.next != null){
+                temp = temp.next;
+            }
+
+            temp.next = newNode;
+
+            // //Step 2 : tail next = newNode
+            // tail.next = newNode;
+
+            // //Step 3 : tail = newNode
+            // tail = newNode;
         }
 
         public void print(){

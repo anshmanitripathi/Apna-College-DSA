@@ -32,9 +32,11 @@ public class i_interleave_two_halves {
 
         interleave(q);
 
-        while(!q.isEmpty()) {
-            System.out.print(q.remove() + " ");
-        }
+        // while(!q.isEmpty()) {
+        //     System.out.print(q.remove() + " ");
+        // }
+
+        System.out.println(q);
 
 
     }
