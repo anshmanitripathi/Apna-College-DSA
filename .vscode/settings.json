@@ -8,6 +8,7 @@
         "4. Function & Methods",
         "3. Pattern Printing",
         "22. Binary Tress",
+        "20. Queues",
         "2. Operator , Conditional & Loops",
         "19. Stack",
         "18. Linked Lists",
@@ -20,7 +21,7 @@
         "11. Bit Manipulation",
         "10. Strings",
         "1. Variables & DataTypes",
-        "20. Queues"
+        "23. Binary Search Tree"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
