@@ -7,6 +7,7 @@
         "5. Advanced Pattern",
         "4. Function & Methods",
         "3. Pattern Printing",
+        "23. Binary Search Tree",
         "22. Binary Tress",
         "20. Queues",
         "2. Operator , Conditional & Loops",
@@ -21,7 +22,7 @@
         "11. Bit Manipulation",
         "10. Strings",
         "1. Variables & DataTypes",
-        "23. Binary Search Tree"
+        "24.Graphs"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
